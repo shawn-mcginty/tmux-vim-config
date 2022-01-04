@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/backup/lost+found'
+let g:netrw_dirhist_3='/home/shawn/dev/manga-viewer/camerupt'
+let g:netrw_dirhist_2='/etc/nginx/sites-enabled'
+let g:netrw_dirhist_1='/home/shawn/dev/naboris/docs-src'
